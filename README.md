@@ -108,7 +108,7 @@ If you find this research and materials simulation suite helpful, consider suppo
 **Lead Author / Sole Inventor:** Abhishek Singh  
 **AI Collaborator:** Google Gemini AI  
 **Location:** Madhya Pradesh, India  
-**Contact:** abhishek1033@gmail.com | abhishek.s@live.in  
+**Contact:** abhishek1033@gmail.com | abhishek80@outlook.com | abhishek.singh.941491229013@proton.me  
 **ORCID:** [0009-0004-6913-096X](https://orcid.org/0009-0004-6913-096X)  
 **GitHub Profile:** [Abhishek1033ubuntu](https://github.com/Abhishek1033ubuntu)  
 
