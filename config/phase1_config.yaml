@@ -1,0 +1,21 @@
+phase1_material_screening:
+  project_name: "Subatomic_1D_Phononic_Blackbody_Rth_Optimization"
+  target_interface:
+    semiconductor_substrate: "GaN_0001"
+    metallic_spreader: "Cu_111"
+    pab_layer_thickness_nm: 10.0
+
+  dft_computational_settings:
+    xc_functional: "PBEsol"
+    plane_wave_cutoff_ev: 650.0
+    charge_cutoff_ev: 5200.0
+    k_grid: [12, 12, 1]
+    scf_energy_threshold_ev: 1.0e-8
+    force_threshold_ev_per_ang: 1.0e-4
+    van_der_waals_correction: "DFT-D3"
+
+  phonon_screening_criteria:
+    frequency_range_thz: [0.1, 12.0]
+    min_spectral_overlap_gamma: 0.85
+    max_phonon_reflection_R: 0.05
+    target_interface_impedance_Rth_c: 1.0
