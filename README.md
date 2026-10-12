@@ -7,7 +7,7 @@
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/abhishek1033)
 [![License](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/SOA%20Compliance-100%25-brightgreen.svg)](#simulation-and-soa-verification) 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23313865-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23313865)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23323601-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23323601)    
 
 ## 1. Executive Summary & Problem Definition
 
