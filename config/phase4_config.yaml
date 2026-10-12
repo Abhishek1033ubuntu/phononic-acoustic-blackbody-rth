@@ -1,0 +1,28 @@
+phase4_wafer_fabrication:
+  project_name: "Subatomic_1D_PAB_Wafer_Level_Fab_Pipeline"
+  substrate_specifications:
+    wafer_diameter_mm: 200.0
+    substrate_orientation: "GaN (0001)"
+    surface_roughness_rms_nm: 0.2
+
+  deposition_parameters:
+    method: "Plasma-Enhanced Atomic Layer Deposition (PE-ALD)"
+    precursor_metal: "Trimethylaluminum / Titanium Amide"
+    precursor_nitrogen: "NH3 Plasma"
+    deposition_temp_c: 300.0
+    growth_rate_angstrom_per_cycle: 0.95
+    target_thickness_nm: 10.0
+    thickness_uniformity_percent: 1.5
+
+  nanomesh_lithography:
+    technique: "Extreme Ultraviolet (EUV) / Electron Beam Lithography"
+    feature_size_nm: 40.0
+    pitch_nm: 100.0
+    fill_factor_percent: 12.5
+
+  metrology_and_endurance:
+    thermal_testing_method: "Time-Domain Thermoreflectance (TDTR)"
+    target_rth_c_k_mm2_w: 0.8
+    thermal_shock_cycles: 10000
+    temp_range_c: [-55.0, 150.0]
+    max_allowable_rth_drift_percent: 5.0
