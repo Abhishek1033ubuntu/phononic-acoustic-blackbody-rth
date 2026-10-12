@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or architecture design in your research, please cite it using the metadata from this file."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+title: "1D Phononic Acoustic Blackbody (PAB) Thermal Interface Architecture"
+version: "1.0.0"
+date-released: 2026-10-12
+url: "https://github.com/Abhishek1033ubuntu/phononic-acoustic-blackbody-rth"
+repository-code: "https://github.com/Abhishek1033ubuntu/phononic-acoustic-blackbody-rth"
+license: MIT
+keywords:
+  - "phononic-blackbody"
+  - "thermal-interface-materials"
+  - "gan-hemt"
+  - "mxene"
+  - "subatomic-materials"
+  - "kapitza-resistance"
+  - "thermal-management"
